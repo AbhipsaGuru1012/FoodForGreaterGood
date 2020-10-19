@@ -1,0 +1,46 @@
+.btn-size {
+    margin: 5px;
+  padding: 5px 10px;
+  font-size: 12px;
+  font-weight: 600;
+  border-radius: 10px;
+  color: white;
+}
+.head{
+    text-align: center;
+    background-image: url('https://mocah.org/uploads/posts/560545-pizza-4k-computer.jpg');
+    background-size: cover;
+    height: 380px;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.text{
+    font-size: medium;
+    font-weight: 600;
+}
+.has-search .form-control {
+    padding-left: 2.375rem;
+    width:700px;
+}
+.blur {
+    background: rgba(255, 255, 255, 0.1); 
+    backdrop-filter: blur(8px,4px);
+  }
+.form-group{
+    margin-left: 200px;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    color: #aaa;
+}
+input[type='text'] {
+    width:300px;
+    height:40px;
+    font-family:Open Sans, sans-serif;
+    font-size:15px;
+}
